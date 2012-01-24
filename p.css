@@ -1,0 +1,8 @@
+body { font: normal 12px Arial, Helvetica, sans-serif; }
+p::after {
+  padding: 5px;
+  margin: 0 0 0 5px;
+  font-size: 9px;
+  color: #ffffff;
+  content: "change";
+  background: #333333; }
